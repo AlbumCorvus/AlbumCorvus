@@ -7,18 +7,15 @@ Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver p
 
 #### Sobre mi : 
 
-Mi nombre es : Libinton G. Ramirez O. 
+Mi nombre es : Libinton G. Ramirez O. Soy Dominicano nacido en Santo Domingo. Vivo en San Cristobal. 
 
-Soy Dominicano Nacido en Santo Domingo actualmente vivo en San Cristobal
- 
+Soy desarrollador FullStack aunque laboralmente me he centrado en ejercer como desarrollador web con un enfoque en la implementacion de " UIs / UXs " personalizadas, llevo mas de seis ( 6 ) anos en el sector tecnologico. En los ultimos anos he priorizado el enfoque de mi tabajo al analisis, comprencion e implementacion efectiva de " UI / UX ". Mis principales areas de interes son :
 
-Soy desarrollador fullStack laboralmente ejerso como " UI / UX DEV " llevo mas de ocho( 8 ) anos en el sector tecnologico. En los ultimos anos he priorizado el enfoque de mi tabajo al analisis, comprencion e implementacion efectiva de UI / UX mis areas de interes son :
+En el ambito laboral : El desarrollo web centrado en la implementacion de arquitecturas basadas en microservicios o APIs. 
 
-En el ambito laboral : el desarrollo web centrado en la implementacion de arquitecturas basadas en microservicios o APIs. 
+En el ambito personal : El desarrollo de herramientas o experiencias interactivas, el 3D o Videojuegos e iniciativas relacionadas a estos sectores. 
 
-En el ambito personal : el desarrollo de herramientas o experiencias interactivas, el 3D ( Videojuegos ) o iniciativas relacionadas a este sector. 
-
-Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que todo el potencial que se a acumulado no es bien aprobechado por el sector.
+Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que no se aprobecha todo el potencial que a acumulado la comunidad en nuestro sector.
 
 ----
 
