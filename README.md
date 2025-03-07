@@ -4,7 +4,6 @@
 
 Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion
 
-----
 
 #### Sobre mi : 
 
@@ -15,6 +14,12 @@ En el ambito laboral : el desarrollo web centrado en la implementacion de arquit
 En el ambito personal : el desarrollo de herramientas o experiencias interactivas, el 3D ( Videojuegos ) o iniciativas relacionadas a este sector. 
 
 Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que todo el potencial que se a acumulado no es bien aprobechado por el sector.
+
+----
+
+- Actualmente estoy trabajando como Independiente mientras analiso la posibilidades de postular a un empleo que me paresca mas favorable para valancear el trabajo entre mis oportunidades de crecimiento personal y las asignaciones de las vacantes disponibles.
+
+- Mientras. Sigo investigando, creciendo y extendiendo mis habilidades y destresas en mis areas de interes.
 
 ---
 
