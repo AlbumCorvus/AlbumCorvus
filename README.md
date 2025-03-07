@@ -40,6 +40,10 @@ enfoque
 
 antecedentes
 
+Estudios / Nivel academico
+
+mi acreditacion academica es de nivel TECNICO : al terminal el bachillerato( Secundaria ) recivi una beca propuesta por el gobierno en mi pais no obstante no logre consiliar mi opinion con la relacion veneficio de la demanda y premio de las curriculas academicas en el sector en la fecha de mi egreso del nivel por tanto opte por formarme pagando de mi trabajo por certificaciones seleccionadas en lugar de la carrera de varios anos tradicional 
+
 
 I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
