@@ -21,11 +21,16 @@ Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* alg
 ##### [ UII : HERRAMIENTAS ] 
 - ##### [ Creadas por mi para usar en mi flujo de trabajo ]
 
-- **ONNBASH** : Esquema y coleccion de scripts y funciones sobre BASH para sistemas GNU/LINUX
+- **ONNBASH** : 
 
-- **SCHEMES** : Libreria y coleccion de componentes web desarrollados usando vanilla JS sobre el esquema UDM
-- **SCHEMES[ UX ]** : Implementacion de una platilla de webapp hibrida sobre componentes UDM creados utilizando codigo vanilla JS y algunas librerias de la comunidad  
-- **HENNMII** : Implementacion de un PDE sobre ONNBASH y SCHEMES[ UX ]  
+  > Esquema y coleccion de scripts y funciones sobre BASH para sistemas GNU/LINUX
+
+- **SCHEMES** : 
+  > Libreria y coleccion de componentes web desarrollados usando vanilla JS sobre el esquema UDM
+- **SCHEMES[ UX ]** : 
+  > Implementacion de una platilla de webapp hibrida sobre componentes UDM creados utilizando codigo vanilla JS y algunas librerias de la comunidad  
+- **HENNMII** : 
+  > Implementacion de un PDE sobre ONNBASH y SCHEMES[ UX ]  
 - **GNOME ON ARCH**
 
 ##### [ UII : INICIATIVAS UI ]
