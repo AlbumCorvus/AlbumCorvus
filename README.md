@@ -10,7 +10,7 @@ Soy desarrollador fullStack laboralmente ejerso como " UI / UX DEV " llevo mas d
 
 En el ambito profecional : el desarrollo web centrado en la implementacion de arquitecturas basadas en microservicios o APIs. 
 
-En el ambito personal : el desarrollo de experiencies interactivas 3D ( Videojuegos ) o herramientas relacionadas a este sector. 
+En el ambito personal : el desarrollo de herramientas o experiencias interactivas, el 3D ( Videojuegos ) o iniciativas relacionadas a este sector. 
 
 Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que todo el potencial que se a acumulado no es bien aprobechado por el sector.
 
