@@ -17,7 +17,7 @@ Me interesa promover la interaccion el crecimiento y utilizacion de los recursos
 
 ----
 
-- Actualmente estoy trabajando como Independiente mientras analiso la posibilidades de postular a un empleo que me paresca mas favorable para valancear el trabajo entre mis oportunidades de crecimiento personal y las asignaciones de las vacantes disponibles.
+- Actualmente estoy trabajando como desarrollador Independiente mientras analiso la posibilidades de postular a un empleo que me paresca mas favorable para valancear el trabajo entre mis oportunidades de crecimiento personal y las asignaciones de las vacantes disponibles.
 
 - Mientras. Sigo investigando, creciendo y extendiendo mis habilidades y destresas en mis areas de interes.
 
