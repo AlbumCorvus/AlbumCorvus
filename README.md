@@ -38,9 +38,9 @@ Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* alg
 ### [ UII : INICIATIVAS UI ]
 - ##### [ Creadas por mi para compartir como herramientas y conceptos con la comunidad ]
 
-- **INBOOK** :
+- **INBOOK** : **[Ir : Haz click](https://www.inprimitive.com/diaries)** 
   > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
-- **SIGNOS** :
+- **SIGNOS** : **[Ir : Haz click](https://www.inprimitive.com/diaries)**
   > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 - **SILUETA** :
   > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
