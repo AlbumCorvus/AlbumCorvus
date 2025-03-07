@@ -8,11 +8,20 @@ Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver p
 
 Soy desarrollador fullStack laboralmente ejerso como " UI / UX DEV " llevo mas de ocho( 8 ) anos en el sector tecnologico. En los ultimos anos he priorizado el enfoque de mi tabajo al analisis, comprencion e implementacion efectiva de UI / UX mis areas de interes son :
 
-En el ambito profecional : el desarrollo web centrado en la implementacion de arquitecturas basadas en microservicios o APIs. 
+En el ambito laboral : el desarrollo web centrado en la implementacion de arquitecturas basadas en microservicios o APIs. 
 
 En el ambito personal : el desarrollo de herramientas o experiencias interactivas, el 3D ( Videojuegos ) o iniciativas relacionadas a este sector. 
 
 Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que todo el potencial que se a acumulado no es bien aprobechado por el sector.
+
+Que he estado haciendo ??
+
+- ONN [ BASH ] : Esquema y conleccion de scripts y funciones sobre BASH para sistemas GNU/LINUX
+
+- SCHEMES
+- SCHEMES [ UX ]
+- ONN [ BASH ] HENNMII
+- GNOME-ON-ARCH
 
 ---
 
