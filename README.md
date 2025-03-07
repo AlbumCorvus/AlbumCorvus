@@ -1,4 +1,5 @@
-# UI / UX
+# UI | UX 
+[ Identidad & Filosofia ] : 
 ## Bienvenido/a 👋 a mi perfil publico
 
 Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion
