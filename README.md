@@ -12,10 +12,15 @@ En el ambito profecional : el desarrollo web centrado en la implementacion de ar
 
 En el ambito personal : el desarrollo de experiencies interactivas 3D ( Videojuegos ) o herramientas relacionadas a este sector. 
 
+Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que todo el potencial que se a acumulado no es bien aprobechado por el sector.
 
 ---
 
-## Proyectos de terceros interesantes :
+# AQUI un vistazo a mis intereses :
+
+# AQUI una mension honorifica a la comunidad :
+
+## Iniciativas interesantes en la comunidad :
 
 #### Hola mundo : <https://www.markdownguide.org>
 
@@ -23,9 +28,14 @@ Este canal lo recomiendo
 
 #### Hola mundo : Este canal lo recomiendo
 
-Proyectos de terceros interesantes :
-
 ---
+
+## Proyectos interesantes en la comunidad :
+
+filosofia
+opinin
+enfoque
+
 
 I love supporting the **[EFF](https://eff.org)**.
 This is the *[Markdown Guide](https://www.markdownguide.org)*.
