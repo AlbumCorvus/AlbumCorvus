@@ -15,7 +15,7 @@ En el ambito laboral : El desarrollo web centrado en la implementacion de arquit
 
 En el ambito personal : El desarrollo de herramientas o experiencias interactivas, el 3D o Videojuegos e iniciativas relacionadas a estos sectores. 
 
-Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que no se aprobecha todo el potencial que a acumulado la comunidad en nuestro sector.
+Me interesa promover la interaccion el crecimiento y utilizacion de los recursos generados por la comunidad opino que no se aprobecha todo el potencial que a acumulado la comunidad en nuestro sector.
 
 ----
 
