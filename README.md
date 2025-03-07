@@ -12,7 +12,7 @@ Mi nombre es : Libinton G. Ramirez O.
 Soy Dominicano Nacido en Santo Domingo actualmente vivo en San Cristobal
  
 
-Soy desarrollador fullStack laboralmente ejerso principalmente como " UI / UX DEV " llevo mas de ocho( 8 ) anos en el sector tecnologico. En los ultimos anos he priorizado el enfoque de mi tabajo al analisis, comprencion e implementacion efectiva de UI / UX mis areas de interes son :
+Soy desarrollador fullStack laboralmente ejerso como " UI / UX DEV " llevo mas de ocho( 8 ) anos en el sector tecnologico. En los ultimos anos he priorizado el enfoque de mi tabajo al analisis, comprencion e implementacion efectiva de UI / UX mis areas de interes son :
 
 En el ambito laboral : el desarrollo web centrado en la implementacion de arquitecturas basadas en microservicios o APIs. 
 
