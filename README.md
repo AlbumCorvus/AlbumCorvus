@@ -1,11 +1,9 @@
-# UI | UX 
+# UI | UX  [ ( DESARROLLADOR )   ] [ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/Libintong21)[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/libinton-g-ramirez-o-a93102169/)
+
 [ Identidad & Filosofia ] : 
 ## Bienvenido/a 👋 a mi perfil publico
 
 Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion
-
-
-*[ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/Libintong21)*
 
 #### Sobre mi : 
 
