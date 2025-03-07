@@ -18,7 +18,7 @@ Me interesa promover la interaccion el crecimiento y utilizacion de los recursos
 
 Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* algunos de mis proyectos en *[desarrollo](https://www.inprimitive.com/diaries)* :
 
-##### [ UII : HERRAMIENTAS ] 
+### [ UII : HERRAMIENTAS ] 
 - ##### [ Creadas por mi para usar en mi flujo de trabajo ]
 
 - **ONNBASH** : 
@@ -33,7 +33,7 @@ Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* alg
   > Implementacion de un PDE sobre ONNBASH y SCHEMES[ UX ]  
 - **GNOME ON ARCH**
 
-##### [ UII : INICIATIVAS UI ]
+### [ UII : INICIATIVAS UI ]
 - ##### [ Creadas por mi para compartir como herramientas y conceptos con la comunidad ]
 
 - **INBOOK** :
