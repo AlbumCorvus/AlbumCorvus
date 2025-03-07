@@ -39,12 +39,19 @@ Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* alg
 - ##### [ Creadas por mi para compartir como herramientas y conceptos con la comunidad ]
 
 - **INBOOK** :
+  > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 - **SIGNOS** :
+  > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 - **SILUETA** :
+  > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 - **WEENGINE** :
+  > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 - **ABACO** :
+  > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 - **UNESPACIO** :
+  > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 - **OURTIME / ONTIME** :
+  > Lorem ipsum dolor sit amet consectetur adipisicing elit. In totam, saepe quibusdam minus ad eveniet consequatur quasi consectetur corrupti asperiores, quae recusandae dignissimos provident exercitationem tempora id? Nostrum, itaque sequi.
 
 ---
 
