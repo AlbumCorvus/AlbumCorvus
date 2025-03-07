@@ -5,6 +5,8 @@
 Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion
 
 
+*[ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/Libintong21)*
+
 #### Sobre mi : 
 
 Mi nombre es : Libinton G. Ramirez O. Soy Dominicano nacido en Santo Domingo. Vivo en San Cristobal. 
