@@ -16,7 +16,7 @@ Me interesa promover la interaccion el crecimiento y utilizacion de los recursos
 
 ---
 
-Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* algunos de mis proyectos en *[desarrollo](https://www.inprimitive.com/diaries:target="_blank")* :
+Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* algunos de mis proyectos en *[desarrollo](https://www.inprimitive.com/diaries/?target="_blank")* :
 
 ##### [ UII : HERRAMIENTAS ] 
 - ##### [ Creadas por mi para usar en mi flujo de trabajo ]
