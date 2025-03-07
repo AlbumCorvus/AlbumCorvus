@@ -33,8 +33,12 @@ Este canal lo recomiendo
 ## Proyectos interesantes en la comunidad :
 
 filosofia
-opinin
+
+opinion
+
 enfoque
+
+antecedentes
 
 
 I love supporting the **[EFF](https://eff.org)**.
