@@ -16,11 +16,11 @@ Me interesa promover la interaccion el crecimiento y utilizacion de los recursos
 
 Que he estado haciendo ??
 
-- ONN [ BASH ] : Esquema y conleccion de scripts y funciones sobre BASH para sistemas GNU/LINUX
+- ONN [ BASH ] : Esquema y coleccion de scripts y funciones sobre BASH para sistemas GNU/LINUX
 
-- SCHEMES
-- SCHEMES [ UX ]
-- ONN [ BASH ] HENNMII
+- SCHEMES : Libreria y coleccion de componentes web desarrollados usando vanilla JS sobre el esquema UDM
+- SCHEMES [ UX ] : Implementacion de una platilla de webapp hibrida sobre componentes UDM creados utilizando codigo vanilla JS y algunas librerias de la comunidad  
+- HENNMII : Implementacion de un PDE sobre ONNBASH y SCHEMES[ UX ]  
 - GNOME-ON-ARCH
 
 ---
