@@ -14,9 +14,12 @@ En el ambito personal : el desarrollo de herramientas o experiencias interactiva
 
 Me interesa promover la interaccion el crecimiento y utilizacion de los recursos que ofrece la comunidad opino que todo el potencial que se a acumulado no es bien aprobechado por el sector.
 
+---
+
 Que he estado haciendo ??
 
-##### [ UII : HERRAMIENTAS ]
+##### [ UII : HERRAMIENTAS ] 
+- ##### [ Creadas por mi para usar en mi flujo de trabajo ]
 
 - ONN [ BASH ] : Esquema y coleccion de scripts y funciones sobre BASH para sistemas GNU/LINUX
 
@@ -26,6 +29,7 @@ Que he estado haciendo ??
 - GNOME-ON-ARCH
 
 ##### [ UII : INICIATIVAS UI ]
+- ##### [ Creadas por mi para compartir como herramientas y conceptos con la comunidad ]
 
 ---
 
