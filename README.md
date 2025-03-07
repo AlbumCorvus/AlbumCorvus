@@ -16,7 +16,7 @@ Me interesa promover la interaccion el crecimiento y utilizacion de los recursos
 
 Que he estado haciendo ??
 
-##### [ HERRAMIENTAS ]
+##### [ UII : HERRAMIENTAS ]
 
 - ONN [ BASH ] : Esquema y coleccion de scripts y funciones sobre BASH para sistemas GNU/LINUX
 
@@ -25,7 +25,7 @@ Que he estado haciendo ??
 - HENNMII : Implementacion de un PDE sobre ONNBASH y SCHEMES[ UX ]  
 - GNOME-ON-ARCH
 
-##### [ UII : INICIATIVAS SOBRE UIs ]
+##### [ UII : INICIATIVAS UI ]
 
 ---
 
