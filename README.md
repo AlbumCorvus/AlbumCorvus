@@ -23,7 +23,7 @@ Me interesa promover la interaccion el crecimiento y utilizacion de los recursos
 
 ---
 
-Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* algunos de mis proyectos en *[desarrollo](https://www.inprimitive.com/diaries)* :
+Que he estado haciendo ?? // AQUI algunos de mis proyectos en *[desarrollo](https://www.inprimitive.com/diaries)* :
 
 ### [ UII : HERRAMIENTAS ] 
 - ##### [ Creadas por mi para usar en mi flujo de trabajo ]
@@ -60,6 +60,22 @@ Que he estado haciendo ?? // *[AQUI](https://www.inprimitive.com/showcases)* alg
 
 ---
 
+### Mi Filosofia :
+
+### Mi Enfoque :
+- TechStack
+
+### Mis antecedentes :
+
+Estudios / Nivel academico
+
+mi acreditacion academica es de nivel TECNICO : al terminal el bachillerato( Secundaria ) recivi una beca propuesta por el gobierno en mi pais no obstante no logre consiliar mi opinion con la relacion veneficio de la demanda y premio de las curriculas academicas en el sector en la fecha de mi egreso del nivel por tanto opte por formarme pagando de mi trabajo por certificaciones seleccionadas en lugar de la carrera de varios anos tradicional 
+
+### Mi Opinion :
+
+---
+
+
 # AQUI un vistazo a mis intereses :
 
 # AQUI una mension honorifica a la comunidad :
@@ -76,17 +92,7 @@ Este canal lo recomiendo
 
 ## Proyectos interesantes en la comunidad :
 
-filosofia
 
-opinion
-
-enfoque
-
-antecedentes
-
-Estudios / Nivel academico
-
-mi acreditacion academica es de nivel TECNICO : al terminal el bachillerato( Secundaria ) recivi una beca propuesta por el gobierno en mi pais no obstante no logre consiliar mi opinion con la relacion veneficio de la demanda y premio de las curriculas academicas en el sector en la fecha de mi egreso del nivel por tanto opte por formarme pagando de mi trabajo por certificaciones seleccionadas en lugar de la carrera de varios anos tradicional 
 
 
 I love supporting the **[EFF](https://eff.org)**.
