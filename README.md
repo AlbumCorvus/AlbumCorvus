@@ -2,7 +2,7 @@
 
 [ Identidad & Filosofia ] : 
 
-## Bienvenido/a 👋 a mi perfil publico
+## Bienvenido/a 👋 a mi repositorio de codigo publico
 
 Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion. El siguiente es un collage compuesto de las tecnologias sobre las que he trabajado.
 
