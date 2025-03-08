@@ -4,7 +4,7 @@
 
 ## Bienvenido/a 👋 a mi perfil publico
 
-Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion
+Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion. El siguiente es un collage compuesto de algunas de las tecnologias sobre las que he trabajado.
 
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
