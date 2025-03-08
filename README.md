@@ -9,6 +9,7 @@ Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver p
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
 ![macOS](https://img.shields.io/badge/mac%20os-990099?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23555555.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Filezilla](https://img.shields.io/badge/filezilla-red.svg?style=for-the-badge&logo=filezilla&logoColor=f5f5f5)
 ![lunacy](https://img.shields.io/badge/lunacy-blue.svg?style=for-the-badge&logo=lunacy&logoColor=f5f5f5)
@@ -16,7 +17,6 @@ Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver p
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23555555.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
