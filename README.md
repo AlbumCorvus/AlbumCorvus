@@ -1,6 +1,7 @@
 # UI | UX  [ ( DESARROLLADOR )   ] [ ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) ](https://t.me/Libintong21)[ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/libinton-g-ramirez-o-a93102169/)
 
 [ Identidad & Filosofia ] : 
+
 ## Bienvenido/a 👋 a mi perfil publico
 
 Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion
@@ -47,15 +48,9 @@ Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver p
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-gray?style=for-the-badge&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-blue?style=for-the-badge&logo=three.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-
-
-
-
-
-virtualbox
 
 
 #### Sobre mi : 
