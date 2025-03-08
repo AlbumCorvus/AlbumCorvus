@@ -65,8 +65,6 @@ En el ambito laboral : El desarrollo web centrado en la implementacion de arquit
 
 En el ambito personal : El desarrollo de herramientas o experiencias interactivas, el 3D o Videojuegos e iniciativas relacionadas a estos sectores. 
 
-Me interesa promover la interaccion el crecimiento y utilizacion de los recursos generados por la comunidad opino que no se aprobecha todo el potencial que a acumulado la comunidad en nuestro sector.
-
 ----
 
 - Actualmente estoy trabajando como desarrollador Independiente mientras analiso las posibilidades de postular a un empleo que me paresca mas favorable para valancear el trabajo entre mis oportunidades de crecimiento personal y las responsabilidades asignadas a la posicion a desempenar.
@@ -74,6 +72,8 @@ Me interesa promover la interaccion el crecimiento y utilizacion de los recursos
 - Mientras. Sigo investigando, creciendo y extendiendo mis habilidades y destresas en mis areas de interes.
 
 ---
+
+Me interesa promover la interaccion el crecimiento y utilizacion de los recursos generados por la comunidad opino que no se aprobecha todo el potencial que a acumulado la comunidad en nuestro sector.
 
 Que he estado haciendo ?? // AQUI algunos de mis proyectos en *[desarrollo](https://www.inprimitive.com/diaries)* :
 
