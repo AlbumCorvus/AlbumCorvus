@@ -7,7 +7,8 @@
 Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver proyectos interesantes y obtener mas informacion
 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Bash Script](https://img.shields.io/badge/bash_script-%23555555.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![macOS](https://img.shields.io/badge/mac%20os-990099?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![lunacy](https://img.shields.io/badge/lunacy-blue.svg?style=for-the-badge&logo=lunacy&logoColor=f5f5f5)
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
@@ -20,7 +21,6 @@ Visita mi portafolio *[inprimitive.com](https://www.inprimitive.com)* para ver p
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![PocketBase](https://img.shields.io/badge/pocketbase-%23b8dbe4.svg?style=for-the-badge&logo=Pocketbase&logoColor=black)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
